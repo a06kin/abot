@@ -1,0 +1,337 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title>QDB: Quote Database</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<style type="text/css">
+	<!--
+		.smalltext {font-family: arial, helvetica, sans-serif;font-size: 10px;background-color: #f0f0f0;color: #000000}
+		.seltext {font-family: arial, helvetica, sans-serif;font-size: 10px;background-color: #ffffff;color: #000000}	
+		input.text {color: #000000; background-color: #ffffff;}
+		textarea {color: #000000; background-color: #ffffff;}
+		select {color: #000000; background-color: #ffffff;}
+		.qt {
+			font-family: courier new, lucida console, fixed;
+			font-size: 10pt;
+			margin-top: 0px;
+		}
+		.qa {
+			font-family: default;
+			font-size: 8pt;
+			text-decoration: none;
+		}
+		input.button {
+			background-color: #c08000;
+			color: #000000;
+		}
+		p.quote {
+			font-family: courier new, lucida console, fixed;
+			font-size: smaller;
+			margin-bottom: 0px;
+		}
+		.bodytext {
+			font-family: arial, helvetica, sans-serif;
+			line-height: 21px;
+			font-size: smaller;
+			color: #000000;
+		}
+		.footertext {
+			font-family: arial, helvetica, sans-serif;
+			font-size: smaller;
+		}
+		.toplinks {
+			font-family: arial, helvetica, sans-serif;
+			color: #000000;
+			font-size: smaller;
+		}
+		.topnum {font-family: arial, helvetica, sans-serif; color: #000000;}
+
+	-->
+	</style>
+
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#c08000" vlink="#c08000" alink="#c08000">
+
+<form action="./?" name="tsearch">
+<center>
+<table cellpadding="2" cellspacing="0" width="80%" border="0">
+	<tr>
+		<td bgcolor="#c08000" align="left">
+			<font size="+1"><b><i>QDB</i></b></font>
+		<a href="./?admin"><font size="-1" color="#c08000">Admin</font></a></td>
+		
+		<td bgcolor="#c08000" align="right">
+			<font face="arial" size="+1"><b>Quote Database</b></font><br></td>
+	</tr></table>
+	<table cellpadding="2" cellspacing="0" width="80%" border="0">
+	<tr>
+		<td class="footertext" align="left" bgcolor="#f0f0f0">
+	<a href="https://www.paypal.com/xclick/business=donate@bash.org&item_name=Bash.org+Donation">Paypal Donate</a></td> 	<td align="right" bgcolor="#f0f0f0" class="toplinks" colspan="2">
+ <a href="./">Home</a> / <a href="./?latest">Latest</a> / <a href="./?browse">Browse</a>
+ / <a href="./?random">Random</a> <a href="./?random1">&gt;0</a>
+ / <a href="./?top">Top 100</a><a href="./?top2">-200</a> / <a href="./?add"><b>Add Quote</b></a>
+ / <a href="modapp/">ModApp</a> / <a href="./?search">Search</a> / <font class="topnum">#</font> <input type="text" name="quote" class="smalltext" size=4>
+		</td>
+	</tr>
+</table>
+</form>
+</center><p>
+
+
+
+<center>
+<table cellpadding="2" cellspacing="0" width="80%">
+<tr><td valign='top'>
+<p class="quote"><a href="?762" title="Permanent link to this quote."><b>#762</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=762" class="qa">+</a>(<font color="green">190</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=762" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=762" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">uuu join/#unix (Hes^GoT^LiNuX!root@vw-14185.kems.net)..<br />
+&lt;Hes^GoT^LiNuX&gt; I Have Linux Perl Can i Download Gnome???</p>
+<p class="quote"><a href="?1924" title="Permanent link to this quote."><b>#1924</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=1924" class="qa">+</a>(<font color="green">327</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=1924" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=1924" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">(nexxai) char *peopleOnEarth, *peopleMyHoes; if (sizeof(peopleOnEarth) == sizeof(peopleMyHoes)) { printf(&quot;Hi.\n&quot;); }<br />
+(nexxai) Hi.<br />
+(nexxai) &lt;-- not a geek.</p>
+<p class="quote"><a href="?2142" title="Permanent link to this quote."><b>#2142</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=2142" class="qa">+</a>(<font color="green">887</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=2142" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=2142" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;mEsHmAn&gt; how do i set myself as away?<br />
+&lt;mEsHmAn&gt; in mIRC<br />
+*** theForger sets mode: +b *!*@host62-7-101-176.btinternet.com<br />
+*** mEsHmAn was kicked by theForger (mEsHmAn is away)</p>
+<p class="quote"><a href="?3098" title="Permanent link to this quote."><b>#3098</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=3098" class="qa">+</a>(<font color="green">397</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=3098" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=3098" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;snag&gt; &lt;@Mir&gt; I wonder what it would be like to fuck in space... in 0-gee <br />
+&lt;snag&gt; you need to fuck first <br />
+&lt;snag&gt; then you can be picky</p>
+<p class="quote"><a href="?3373" title="Permanent link to this quote."><b>#3373</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=3373" class="qa">+</a>(<font color="green">589</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=3373" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=3373" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Wes&gt; While most dudes go day-to-day waiting for sex to happen, the sex offenders go out and MAKE it happen.</p>
+<p class="quote"><a href="?3550" title="Permanent link to this quote."><b>#3550</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=3550" class="qa">+</a>(<font color="green">37</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=3550" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=3550" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;PowrSlave&gt; dude once i got an altoid stuck up my gf's pussy&nbsp; <br />
+&lt;PowrSlave&gt; and everytime i tried to fish it out with my tongue it went further up.&nbsp; and she said it burned her hahaa</p>
+<p class="quote"><a href="?3912" title="Permanent link to this quote."><b>#3912</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=3912" class="qa">+</a>(<font color="green">303</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=3912" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=3912" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;i4get&gt; life sucks.<br />
+&lt;Waldo&gt; yeah, but so do some girls so it kinda evens out<br />
+&lt;i4get&gt; X(<br />
+&lt;i4get&gt; funny Waldo</p>
+<p class="quote"><a href="?4161" title="Permanent link to this quote."><b>#4161</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=4161" class="qa">+</a>(<font color="green">158</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=4161" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=4161" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;xEh&gt; I could use some help on my image post site<br />
+&lt;JaseGuru&gt; If you pay me I will<br />
+&lt;xEh&gt; i'm doing it for free so why can't you, some arrogant fellows here<br />
+&lt;|Primus&gt; lol. xEH your the one that wants a stranger to do stuff for you, for free</p>
+<p class="quote"><a href="?4613" title="Permanent link to this quote."><b>#4613</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=4613" class="qa">+</a>(<font color="green">1315</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=4613" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=4613" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;SoulBain&gt; I think my keyboard's unplugged.</p>
+<p class="quote"><a href="?4751" title="Permanent link to this quote."><b>#4751</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=4751" class="qa">+</a>(<font color="green">270</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=4751" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=4751" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;ellipse&gt; whoa. i hate farts like that.<br />
+&lt;ellipse&gt; that one was so hot, i couldn't tell if i shit myself or not. i think i'm going to have to manually check.</p>
+<p class="quote"><a href="?5490" title="Permanent link to this quote."><b>#5490</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=5490" class="qa">+</a>(<font color="green">340</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=5490" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=5490" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;theForger&gt; it's kind of odd how a lot of planets in star trek have spaceships and transporters, and yet they still live in huts and clay houses</p>
+<p class="quote"><a href="?8455" title="Permanent link to this quote."><b>#8455</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=8455" class="qa">+</a>(<font color="green">120</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=8455" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=8455" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Pat&gt; i had to go to hospital after because of complications<br />
+&lt;Bleve&gt; Pat was very complicated, they removed his arsehole by mistake<br />
+&lt;Mandi&gt; heh<br />
+&lt;Bru&gt; what's that in the middle of his face then??</p>
+<p class="quote"><a href="?8735" title="Permanent link to this quote."><b>#8735</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=8735" class="qa">+</a>(<font color="green">590</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=8735" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=8735" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;arfmcbarf&gt; i'm gonna teach you a lesson you wont soon forget<br />
+&lt;arfmcbarf&gt; i.e., how to integrate ln x from 0 to infinity<br />
+&lt;arfmcbarf&gt; first you get the antiderivitive<br />
+&lt;arfmcbarf&gt; of ln(x)<br />
+&lt;arfmcbarf&gt; i.e., 1/x<br />
+&lt;arfmcbarf&gt; then i forget the rest</p>
+<p class="quote"><a href="?9511" title="Permanent link to this quote."><b>#9511</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=9511" class="qa">+</a>(<font color="green">577</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=9511" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=9511" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;BoShekk&gt; hey<br />
+&lt;jstepka&gt; hey<br />
+&lt;merkzu&gt; hey<br />
+&lt;BoShekk&gt; its fat albert</p>
+<p class="quote"><a href="?10162" title="Permanent link to this quote."><b>#10162</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=10162" class="qa">+</a>(<font color="green">365</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=10162" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=10162" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Gygaxis&gt; hitler: NO FAIR!!! ENGLANDS WALLHACKING!!!!1</p>
+<p class="quote"><a href="?11073" title="Permanent link to this quote."><b>#11073</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=11073" class="qa">+</a>(<font color="green">594</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=11073" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=11073" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;SpunOne&gt; To The Taliban:<br />
+&lt;SpunOne&gt; Give US Osama Bin Laden or we'll send your women to college.<br />
+&lt;nersh&gt; To the US:<br />
+&lt;nersh&gt; Leave us alone or we, the Taliban authorities would not hesitate to cut off America's supply of convenience store managers.</p>
+<p class="quote"><a href="?13359" title="Permanent link to this quote."><b>#13359</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=13359" class="qa">+</a>(<font color="green">1235</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=13359" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=13359" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;TrivBot&gt; Question 3. A man's beard grows fastest when he ______?<br />
+&lt;_Cozmo_&gt; shaves it<br />
+&lt;emul8or__&gt; shaves<br />
+&lt;RatAway&gt; jacks off<br />
+&lt;TrivBot&gt; Here's a hint: antici<br />
+&lt;Rjx&gt; anticipates sex<br />
+&lt;TrivBot&gt; Rjx got the answer: anticipates sex. In: 5.7secs.<br />
+&lt;Rjx&gt; wtf?</p>
+<p class="quote"><a href="?14623" title="Permanent link to this quote."><b>#14623</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=14623" class="qa">+</a>(<font color="green">328</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=14623" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=14623" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">(_3TS|ZaW): ahh yes...i recall when i first lit my nuts ablaze...it was in chemistry...it said &quot;light the burner.&quot; and when i was lighting it, my pants slipped off and my penis flopped over the bunson burner...darndest thing...</p>
+<p class="quote"><a href="?15668" title="Permanent link to this quote."><b>#15668</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=15668" class="qa">+</a>(<font color="green">176</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=15668" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=15668" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;amm&gt; I blew up a $590,000 spectrometer today<br />
+&lt;amm&gt; xney: yeah, but its covered under insurance<br />
+&lt;amm&gt; I quenched an NMR 700mhz magnet which caused an explosion in the<br />
+&nbsp; computer room destroying all the sparcs in there :D</p>
+<p class="quote"><a href="?16256" title="Permanent link to this quote."><b>#16256</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=16256" class="qa">+</a>(<font color="green">427</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=16256" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=16256" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;mrfrosty&gt; your'e a faggot short of a raging fire<br />
+&lt;mrfrosty&gt; if you know what i mean<br />
+&lt;mrfrosty&gt; and if you do, let me know</p>
+<p class="quote"><a href="?32981" title="Permanent link to this quote."><b>#32981</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=32981" class="qa">+</a>(<font color="green">183</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=32981" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=32981" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Adonai&gt; but the sex toy shop guy might think i'm crazy buying like 15 dildos<br />
+&lt;Alyssa^eating&gt; wth...<br />
+&lt;Alyssa^eating&gt; I just get back and I see that<br />
+&lt;Adonai&gt; so what's the lesson you learned today Alyssa?<br />
+&lt;Alyssa^eating&gt; I'm not sure<br />
+&lt;Adonai&gt; don't come back to IRC ;oD</p>
+<p class="quote"><a href="?33588" title="Permanent link to this quote."><b>#33588</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=33588" class="qa">+</a>(<font color="green">155</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=33588" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=33588" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">phusnikin&gt; that sucked. compiled my executable into my src and i have no <br />
+backup, damm bash tab completion :\</p>
+<p class="quote"><a href="?34741" title="Permanent link to this quote."><b>#34741</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=34741" class="qa">+</a>(<font color="green">110</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=34741" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=34741" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Nyphur&gt; Everything I say is a lie. <br />
+&lt;Nyphur&gt; I AM COMPULSIVE LIAR! <br />
+&lt;CWGerard&gt; Oh no, what to believe!!!<br />
+&lt;CWGerard&gt; I ARE BORK!&nbsp; DOWNLOAD TEH PATCH!</p>
+<p class="quote"><a href="?36810" title="Permanent link to this quote."><b>#36810</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=36810" class="qa">+</a>(<font color="green">176</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=36810" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=36810" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;lice&gt; i swear<br />
+&lt;lice&gt; i hate ppl that promise work done without asking me first<br />
+&lt;Killeroy&gt; that's called &quot;managing&quot;</p>
+<p class="quote"><a href="?37090" title="Permanent link to this quote."><b>#37090</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=37090" class="qa">+</a>(<font color="green">20</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=37090" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=37090" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">[^Neon^]: what windows are u running?<br />
+[AtomicFox]: now? just MiRc<br />
+[^Neon^]: windows<br />
+[^Neon^]: windows 95 98 me 2000 xp ?</p>
+<p class="quote"><a href="?47170" title="Permanent link to this quote."><b>#47170</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=47170" class="qa">+</a>(<font color="green">243</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=47170" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=47170" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;TDS&gt; THAT MAKE NO SENSE ANYWAY. IF 50 % OF AMERICANS ARE BELOW AVERAGE INTELLIGENCE, HOW CAN IT BE AVERAGE? <br />
+&lt;SneakAtack&gt; TDS is an idiot. half the people are below the average and half the people are above the average. that's why it's an average. <br />
+&lt;Moik&gt; &gt;_&lt; TDS makes the upper half possible.<br />
+&lt;Bob_Dole&gt; ROFL @ Moik <br />
+&lt;SneakAtack&gt; hehee <br />
+&lt;SneakAtack&gt; I feel almost bad. I should have waited for more people to reply and then agreed with TDS. <br />
+&lt;TDS&gt; that was a momentary lapse. my iq has been found to be 163. <br />
+&lt;FFVI&gt; You forgot a decmial point, TDS <br />
+&lt;SneakAtack&gt; TDS: 163 with a mean of 500?</p>
+<p class="quote"><a href="?49328" title="Permanent link to this quote."><b>#49328</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=49328" class="qa">+</a>(<font color="green">274</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=49328" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=49328" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Tetsuo&gt; Isn't using NOSPAM in a Hotmail address kind of like trying to stop a hurricane with plywood?</p>
+<p class="quote"><a href="?49505" title="Permanent link to this quote."><b>#49505</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=49505" class="qa">+</a>(<font color="green">379</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=49505" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=49505" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;sieco&gt; i still use it to play duck hunt<br />
+&lt;ion&gt; my nintendo went out the window after that last time I failed to beat ganon and bring home the tri-force<br />
+&lt;XCoyote&gt; lol<br />
+&lt;ion&gt; my girlfriend was like &quot;you fucking sissy.&nbsp; if you don't bring me home the tri-force I'm going out with Bobby next door&quot;<br />
+&lt;sieco&gt; rofl<br />
+&lt;ion&gt; I'm like &quot;fuck you bitch!&quot;&nbsp; and I flung the nintendo at her</p>
+<p class="quote"><a href="?52990" title="Permanent link to this quote."><b>#52990</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=52990" class="qa">+</a>(<font color="green">945</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=52990" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=52990" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;|404notfound&gt; They need to make keyboards without the caps lock button, and then give the buttons to martial arts masters.<br />
+&lt;|404notfound&gt; &quot;Only when you can snatch the caps lock from my hand may you yell incessantly like an idiot.&quot;</p>
+<p class="quote"><a href="?57933" title="Permanent link to this quote."><b>#57933</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=57933" class="qa">+</a>(<font color="green">169</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=57933" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=57933" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;SantaClaus&gt; Santa on @#gaysouthcoast<br />
+&lt;SantaClaus&gt; spreading white christmas in all the wrong places</p>
+<p class="quote"><a href="?61930" title="Permanent link to this quote."><b>#61930</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=61930" class="qa">+</a>(<font color="green">302</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=61930" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=61930" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;iota&gt; i think my son is prejudice <br />
+&lt;HgR`Your_Dead&gt; [ iota ] why? <br />
+&lt;iota&gt; i brought him a black vantriliquist dummy home from work and he ripped it's legs off <br />
+&lt;iota&gt; the really bad part is i picked him up and made his mouth move and went can a nigga get a wheel chair</p>
+<p class="quote"><a href="?81804" title="Permanent link to this quote."><b>#81804</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=81804" class="qa">+</a>(<font color="green">200</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=81804" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=81804" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Moiee&gt; i have perfect biceps<br />
+&lt;demalavor&gt; only in one arm though</p>
+<p class="quote"><a href="?82174" title="Permanent link to this quote."><b>#82174</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=82174" class="qa">+</a>(<font color="green">71</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=82174" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=82174" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;overandoutcaptn&gt; it's all about searching ebay to get an estimate on the going rate for kidneys<br />
+&lt;Poison_Idea&gt; HAHAH ALEX<br />
+&lt;Poison_Idea&gt; alex sell your virginity on it<br />
+&lt;Poison_Idea&gt; please<br />
+&lt;overandoutcaptn&gt; nope<br />
+&lt;overandoutcaptn&gt; no kidneys on ebay<br />
+&lt;Poison_Idea&gt; fuck<br />
+&lt;overandoutcaptn&gt; just kidney beans<br />
+&lt;overandoutcaptn&gt; and kidney shaped bowls<br />
+&lt;Poison_Idea&gt; i dont need a kidney<br />
+&lt;Poison_Idea&gt; illl put it on<br />
+&lt;overandoutcaptn&gt; and other useless crap that doesn't tell me how much a kidney is going for<br />
+&lt;overandoutcaptn&gt; i don't want to sell my virginity on ebay<br />
+&lt;overandoutcaptn&gt; some fat ugly mediterainian woman will prolly buy it<br />
+&lt;Poison_Idea&gt; haha nah my mum isnt mediterrian yo<br />
+&lt;overandoutcaptn&gt; although if an american or european buys it then they'd have to pay for postage and handling and i demand first class all the way</p>
+<p class="quote"><a href="?85544" title="Permanent link to this quote."><b>#85544</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=85544" class="qa">+</a>(<font color="green">167</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=85544" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=85544" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;exe|Die&gt; what is an awkward?<br />
+&lt;jonsae&gt; i hope you're joking<br />
+&lt;jonsae&gt; exe|Die<br />
+&lt;exe|Die&gt; i think it's a vegetable<br />
+&lt;exe|Die&gt; or fruit</p>
+<p class="quote"><a href="?125350" title="Permanent link to this quote."><b>#125350</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=125350" class="qa">+</a>(<font color="green">439</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=125350" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=125350" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;ShyAway&gt; so, if you asked for mint, I wouldn't not give it to you because you like chocolate<br />
+&lt;ShyAway&gt; so, in conclusion, men are chocolate, girls are mint<br />
+&lt;ShyAway&gt; and, flat likes men<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+&lt;MonaLeilani&gt; flat: set mode +I<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+&lt;flatface&gt; Never<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+* ShyAway was kicked by flatface (Stop hitting yourself)<br />
+* ShyAway (Shy@zealfiles) has joined #flatface<br />
+&lt;flatface&gt; This is much more fun</p>
+<p class="quote"><a href="?182469" title="Permanent link to this quote."><b>#182469</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=182469" class="qa">+</a>(<font color="green">1212</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=182469" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=182469" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Turtle&gt; FUCK i just accidently stapled my homework to the wall</p>
+<p class="quote"><a href="?189549" title="Permanent link to this quote."><b>#189549</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=189549" class="qa">+</a>(<font color="green">447</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=189549" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=189549" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;Kunda&gt; I wanna see a Jerry Springer episode where a Scientologist gets into a scrag with a Raelian when they can't agree which planet humans were sent to earth from</p>
+<p class="quote"><a href="?201579" title="Permanent link to this quote."><b>#201579</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=201579" class="qa">+</a>(<font color="green">11989</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=201579" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=201579" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;by&gt; Is there anyway I can tell the world I'm an idiot?<br />
+&lt;Seven7&gt; Of course, just type your name, where you live and your confession<br />
+&lt;by&gt; Kk<br />
+&lt;by&gt; I am Mark Duval of Belgium, and I am an idiot<br />
+&lt;by&gt; ?<br />
+&lt;by&gt; Now what?<br />
+&lt;Seven7&gt; Don't worry. It's done</p>
+<p class="quote"><a href="?242402" title="Permanent link to this quote."><b>#242402</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=242402" class="qa">+</a>(<font color="green">2418</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=242402" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=242402" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">DinjackPD: there was this once, like three years ago, I forgot this big project I had to turn in when I went to school<br />
+DinjackPD: so I called home to my dad (he works out of a home office) and asked him to bring it for me<br />
+DinjackPD: so he came to school with it and he came up to me and shook my hand and said &quot;Hi there, I'm David, I'm your personal secretary.&quot;<br />
+DinjackPD: And I said &quot;Hi there, I'm your son, you signed on for this shit when you didn't wear a condom.&quot;<br />
+DinjackPD: I thought it was funnier than he did</p>
+<p class="quote"><a href="?245718" title="Permanent link to this quote."><b>#245718</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=245718" class="qa">+</a>(<font color="green">6892</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=245718" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=245718" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;+mOrphz&gt; damn it :/<br />
+&lt;@Lego&gt; damn it :/<br />
+&lt;+mOrphz&gt; stop that<br />
+&lt;@Lego&gt; stop that<br />
+&lt;+mOrphz&gt; :D<br />
+&lt;@Lego&gt; :D<br />
+&lt;+mOrphz&gt; Lego smells<br />
+&lt;@Lego&gt; Lego smells<br />
+&lt;+mOrphz&gt; /quit<br />
+quit: (Lego) (~leet@apex|Lego.user.gamesnet) (Quit)</p>
+<p class="quote"><a href="?281987" title="Permanent link to this quote."><b>#281987</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=281987" class="qa">+</a>(<font color="green">490</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=281987" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=281987" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;@rakaur&gt; maybe when i get back<br />
+&lt;lily&gt; ok well when you're ready call me on the telephone<br />
+&lt;@rakaur&gt; well you know i had planned on smoke signals but telephone is ok.</p>
+<p class="quote"><a href="?329906" title="Permanent link to this quote."><b>#329906</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=329906" class="qa">+</a>(<font color="green">21</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=329906" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=329906" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;noan&gt; yay more manga<br />
+&lt;pingtimeout&gt; heh<br />
+&lt;[I&gt; why is japanese cool and not polish<br />
+&lt;[I&gt; wtf<br />
+&lt;[I&gt; &gt;:[<br />
+&lt;pingtimeout&gt; because polish chicks dont eat their own shit</p>
+<p class="quote"><a href="?473599" title="Permanent link to this quote."><b>#473599</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=473599" class="qa">+</a>(<font color="green">6070</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=473599" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=473599" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">Mjordan2nd: If you could be any fictional character, who would you be?<br />
+Chris: Spider Man<br />
+Tim: batman<br />
+Sidd: batman<br />
+Mjordan2nd: I'd be god</p>
+<p class="quote"><a href="?478193" title="Permanent link to this quote."><b>#478193</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=478193" class="qa">+</a>(<font color="green">929</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=478193" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=478193" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">[masterchris] oh wow. I love the way Norton backs you up against a wall and tells you that you have to reboot to complete the installation of these updates..<br />
+[masterchris] ..no 'reboot later' button<br />
+[masterchris] just 'okay'<br />
+[DRUFER] pfft<br />
+[masterchris] i wonder, if I hit the x, will it close it - or reboot it.<br />
+[Pickle_Weasel] just keep it in the background until you're ready<br />
+[DRUFER] get your virus updates<br />
+[DRUFER] be happy<br />
+*@masterchris is going to try the x.<br />
+[Pickle_Weasel] ping timeout<br />
+[Pickle_Weasel] $5 on ping timeout<br />
+[DRUFER] lmao<br />
+[masterchris] Norton wouldn't be that prickey and make the x button the same as 'ok' i would hope.<br />
+* masterchris [GAT-X207@=SHVbyv-508.chebucto.ns.Ca] has left IRC<br />
+* @masterchris (GAT-X207@=SHVbyv-508.chebucto.ns.Ca) Quit (Connection reset by peer)<br />
+[Kraid] ahaha</p>
+<p class="quote"><a href="?625032" title="Permanent link to this quote."><b>#625032</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=625032" class="qa">+</a>(<font color="green">859</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=625032" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=625032" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;johnnyt&gt; holy crap. have to do a 1500 word history essay<br />
+&lt;heffalump75&gt; hey u know the saying....<br />
+&lt;heffalump75&gt; just draw 1.5 pictures</p>
+<p class="quote"><a href="?734300" title="Permanent link to this quote."><b>#734300</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=734300" class="qa">+</a>(<font color="green">1080</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=734300" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=734300" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;knucklz&gt; i have to say i think i'm completely out of touch with porn these days<br />
+&lt;knucklz&gt; i heard 'inside the porn actors studio' on howard stern they other day and they played a clip from this girls porno<br />
+&lt;knucklz&gt; she said, and i quote, &quot;yeah, stick your big cock in my shit locker&quot;<br />
+&lt;knucklz&gt; call me old fashioned, but the term &quot;shit locker&quot; doesn't exactly get my motor going</p>
+<p class="quote"><a href="?784313" title="Permanent link to this quote."><b>#784313</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=784313" class="qa">+</a>(<font color="green">697</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=784313" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=784313" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">FrmShft:i got annoyed at myspace today for trying to tell me about fantastic new job opportunities in my area, which happened to be a zipcode off<br />
+FrmShft:thinking to short out its idiot-circuits, i told it i was interested in &quot;prostitution&quot; in kansas<br />
+FrmShft:i cried when it came back with 12 different listings for &quot;web designer&quot;</p>
+<p class="quote"><a href="?910034" title="Permanent link to this quote."><b>#910034</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=910034" class="qa">+</a>(<font color="green">1890</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=910034" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=910034" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;popemichael&gt; I'm thinking about drinking a little tonight too. It might make my pain pills work better.<br />
+&lt;jamie&gt; Isn't there a &quot;do not take with alcohol&quot; warning on your pill bottle?<br />
+&lt;popemichael&gt; It's okay, I took it off.</p>
+<p class="quote"><a href="?917215" title="Permanent link to this quote."><b>#917215</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=917215" class="qa">+</a>(<font color="green">1285</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=917215" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=917215" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">AxelDesade: Good god, I need a life.<br />
+Colty: Why's that?<br />
+AxelDesade: I was entertained for over an hour today by refreshing a captcha until it said something funny or made a cool band name.</p>
+<p class="quote"><a href="?945854" title="Permanent link to this quote."><b>#945854</b></a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;rox=945854" class="qa">+</a>(<font color="green">1203</font>)<a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sox=945854" class="qa">-</a> <a href="./?le=11c7d358b1555171756e003c1a3a5f5d&amp;sux=945854" onClick="return confirm('Flag quote for review?');" class="qa">[X]</a></p><p class="qt">&lt;onwsk8r&gt;FUUUUUUUUUUCCCCCCCKKKKKKKKKK<br />
+&lt;onwsk8r&gt;Holy buckets of fuck!<br />
+&lt;onwsk8r&gt;my neighbors that were leeching off my wireless must have fuckin moved or got their own internet or something.. No route to host.<br />
+&lt;onwsk8r&gt;I was keeping like 300 gigs of pr0n, movies, and some files for work that I didn't have room for on their computer!<br />
+&lt;onwsk8r&gt;I need an ARP for MAC addresses :(</p>
+</td>
+<td valign='top'></td></tr></table>
+</center>
+<center>
+<table border="0" cellpadding="2" cellspacing="0" width="80%" bgcolor="#c08000"><tr><td bgcolor="#f0f0f0" class="toplinks" colspan=2><a href="./">Home</a> / <a href="./?latest">Latest</a> / <a href="./?browse">Browse</a> / 
+<a href="./?random">Random</a> <a href="./?random1">&gt;0</a> / <a href="./?top">Top 100</a><a href="./?top2">-200</a> /
+<a href="./?add"><B>Add Quote</B></a> / <a href="./?search">Search</a> / <a href="modapp/">ModApp</a></td>
+</tr>
+<tr>
+<td class="footertext" align="left">0.0362</td><td class="footertext" align="right"> 20982 quotes approved; 4948 quotes pending</td>
+</tr>
+</table>
+
+<font size="-1">
+<a href="http://www.idologic.com">Hosted by Idologic: high quality reseller and dedicated hosting.</a>
+<br>
+&#169; QDB 1999-2015, All Rights Reserved.
+</font>
+</center>
+
+</body>
+</html>
